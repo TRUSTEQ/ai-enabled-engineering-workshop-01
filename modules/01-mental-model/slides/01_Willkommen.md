@@ -4,7 +4,8 @@
 
 ## Lernziel dieses Moduls
 
-- Ein LLM arbeitet mit **unstrukturiertem Input und Output** — kein implizites Weltmodell wie bei klassischer Software.
+- Ein LLM arbeitet mit **unstrukturiertem Input und Output** — kein implizites Weltmodell wie bei klassischer Software (Datentypen, feste Regeln, Zustandslogik, Constraints, Business-Objekte.
+).
 - Ziel ist ein **kontrollierbarer Workflow**: Research → Plan → Implement → Verify, mit **expliziten Artefakten** und klaren Qualitätsmaßstäben.
 
 ## Was dieser Nachmittag leisten soll
